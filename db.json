@@ -1,5 +1,5 @@
 {
-    "users": [
+    "allusers": [
       {
         "id": 1,
         "name": "Gertrudis Tatterton",
@@ -60,5 +60,97 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
-    ]
+    ],
+    "users" :[
+
+      {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgKkvkgQk4wH555z-fArrlYBw-TkAENpB7FYo3w6Mx1wXQAv0whmG_ZUlPsWNBWwfusY&usqp=CAU",
+        "name":"Ena",
+        "email" :"ena@gmail.com",
+        "password" :"ena"
+      },
+      
+      {
+        "img":"https://sialifehospital.com/wp-content/uploads/2021/04/testimonial-1.png",
+        "name":"Utham",
+        "email" :"utham@gmail.com",
+        "password" :"utham"
+      },
+      {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgKkvkgQk4wH555z-fArrlYBw-TkAENpB7FYo3w6Mx1wXQAv0whmG_ZUlPsWNBWwfusY&usqp=CAU",
+        "name":"gina",
+        "email" :"gina@gmail.com",
+        "password" :"gina"
+      },
+      {
+        "img":"https://sialifehospital.com/wp-content/uploads/2021/04/testimonial-1.png",
+        "name":"Albert",
+        "email" :"albert@gmail.com",
+        "password" :"albert"
+      }
+      
+      
+      
+      ],
+      
+      
+      "blogs":[
+        
+          {
+            "id" : 1,
+            "name": "ena",
+            "title": "Be Present",
+            "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+            "category" : "Entertainment",
+            "date" : "2017-06-01",
+            "likes" : 24,
+            "comments" : [{"name" : "Jane", "content" : "Good One"}, {"name" : "Bob", "content" : "Loved It!"}]
+          },
+      
+          {
+            "id" : 2,
+            "name": "Utham",
+            "title": "Be Present",
+            "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+            "category" : "“Lifestyle",
+            "date" : "2017-06-01",
+            "likes" : 24,
+            "comments" : [{"name" : "Jane", "content" : "Good One"}, {"name" : "Bob", "content" : "Loved It!"}]
+          },
+          {
+            "id" : 3,
+            "name": "gina",
+            "title": "Be Present",
+            "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+            "category" : "Tech”",
+            "date" : "2017-06-01",
+            "likes" : 24,
+            "comments" : [{"name" : "Jane", "content" : "Good One"}, {"name" : "Bob", "content" : "Loved It!"}]
+          },
+          {
+            "id" : 4,
+            "name": "Albert",
+            "title": "Be Present",
+            "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+            "category" : "Business”",
+            "date" : "2017-06-01",
+            "likes" : 24,
+            "comments" : [{"name" : "Jane", "content" : "Good One"}, {"name" : "Bob", "content" : "Loved It!"}]
+          },
+          {
+            "id" : 5,
+            "name": "allne",
+            "title": "Be Present",
+            "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+            "category" : "Tech”",
+            "date" : "2017-06-01",
+            "likes" : 24,
+            "comments" : [{"name" : "Jane", "content" : "Good One"}, {"name" : "Bob", "content" : "Loved It!"}]
+          }
+      
+      
+      
+        
+      ]
+
   }
